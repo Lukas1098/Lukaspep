@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **AWS and DevOps projects**
+ 🔭 I’m currently working on **ReactJS and Fast API projects**
  
- 🌱 I’m currently learning **AWS solutions architect**
+ 🌱 I’m currently learning **ReactJS and NextJS**
 
-💬 Ask me about **Python or DevOps**
+💬 Ask me about **Web Development or Cloud**
 
 
  </div>
@@ -33,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,aws,jenkins,kubernetes,docker,git,bash,terraform" />
-    <img src="https://skillicons.dev/icons?i=py,grafana,prometheus,githubactions,ansible" /><br>
+    <!-- <img src="https://skillicons.dev/icons?i=" /> -->
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,py,react,nodejs,express,nextjs,githubactions,fastapi" /><br>
 </div>
 
 <br/>
@@ -55,17 +55,17 @@
         <tr>
             <td>
                 <a href="https://git.io/streak-stats">
-                    <img src="https://github-readme-streak-stats.herokuapp.com?user=Lukaspep&theme=react" alt="GitHub Streak">
+                    <img src="https://github-readme-streak-stats.herokuapp.com?user=Lukas1098&theme=react" alt="GitHub Streak">
                 </a>
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=Lukaspep&show_icons=true&theme=react" alt="GitHub stats">
+                <img src="https://github-readme-stats.vercel.app/api?username=Lukas1098&show_icons=true&theme=react" alt="GitHub stats">
             </td>
         </tr>
     </table>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Lukaspep&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Lukas1098&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs">
     </a>
 </div>
 
