@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **ReactJS and Fast API projects**
  
- 🌱 I’m currently learning **ReactJS and NextJS**
+ 🌱 I’m currently learning **ReactJS and FastAPI**
 
 💬 Ask me about **Web Development or Cloud**
 
